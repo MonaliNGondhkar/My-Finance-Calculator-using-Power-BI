@@ -1,2 +1,1 @@
-# My-Finance-Calculator-using-Power-BI
-A project to build personal expenses score card
+I have built my own database to calculate my salary, loan, EMIs, investments, etc for the year 2022 to understand how much salary has been incremented, have my personal spends, and how much do I save. 
